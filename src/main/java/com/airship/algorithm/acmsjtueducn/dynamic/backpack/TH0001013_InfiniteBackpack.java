@@ -60,7 +60,9 @@ public class TH0001013_InfiniteBackpack
 
     /**
      * 思想：f[i][v]=max{f[i-1][v], f[i-1][v-c[i]]+w[i]}; <br>
-     * 改进：f[v]=max{f[v],f[v-c[i]]+w[i]}
+     * 改进：f[v]=max{f[v],f[v-c[i]]+w[i]}<br>
+     * <p>
+     * 区别：与01背包改进的区别是，完全背包正序遍历V.
      */
     private void action()
     {
