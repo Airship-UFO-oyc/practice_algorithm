@@ -1,4 +1,4 @@
-package com.airship.algorithm.lintcode.backpack.th000092_backpack;
+package com.airship.algorithm.lintcode.dynamic.backpack.th000092_backpack;
 
 /**
  * 

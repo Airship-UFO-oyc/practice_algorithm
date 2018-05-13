@@ -1,4 +1,4 @@
-package com.airship.algorithm.lintcode.backpack.th000749_johns_backyard_garden;
+package com.airship.algorithm.lintcode.dynamic.backpack.th000749_johns_backyard_garden;
 
 /**
  * 
